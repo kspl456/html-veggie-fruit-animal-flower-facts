@@ -1,0 +1,89 @@
+*{
+    background-color:rgb(255, 197, 132);
+}
+button{
+    background-color: rgb(255, 0, 102);
+    padding: 10px;
+    color: white;
+    box-shadow: 5px;
+    border-radius: 20%;
+    height: 50px;
+    width: 100px;
+}
+a:link{
+    color: white;
+    background-color: transparent;
+    text-align: center;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    
+}
+a:visited{
+    color: white;
+    background-color: transparent;
+    text-align: center;
+    text-decoration: none;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 10%;
+    border: 10px solid rgb(255, 173, 49);
+}
+.main{
+    padding: 50px;
+    background-color:rgb(255, 0, 102);
+    border-radius: 2%;
+}
+.pic1{
+    background-color: #1ab2ff;
+    display: flex;
+    
+}
+.pic2{
+    background-color: #99ddff;
+    display: flex;
+    
+}
+.button1{
+    margin-top: 10%;
+    margin-left: 42%;
+    display:inline-block;
+    position: absolute;
+}
+.button2{
+    margin-top: 15%;
+    margin-left: 42.55%;
+    display:inline-block;
+    position: relative;
+}
+h1{
+    text-align:center;
+    color: #2c2d34;
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+.content{
+   font-size: larger;
+   background-color:rgb(255, 0, 102);
+   width: 50%;
+   height: 40%;
+   text-align:center;
+   padding-left: 100px;
+   /*padding-top: 50px;*/
+   align-self: center;
+   /*border-width: 10px solid pink;*/
+   border-color:rgb(255, 0, 102);
+   padding-right: 20px;
+}
+p{
+    background-color: transparent;
+    color: cornsilk;
+    font-size: x-large;
+
+}
